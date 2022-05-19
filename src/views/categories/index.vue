@@ -1,5 +1,5 @@
 <template>
-  <div>categories 今天的代码</div>
+  <div>categories 今天的代码测试</div>
 </template>
 
 <script setup></script>
