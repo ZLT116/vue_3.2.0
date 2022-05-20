@@ -1,5 +1,5 @@
 <template>
-  <div>params</div>
+  <div>paramshnb</div>
 </template>
 
 <script setup></script>
